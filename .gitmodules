@@ -1,0 +1,3 @@
+[submodule "src/Miunie"]
+	path = src/Miunie
+	url = git@github.com:control-net/Miunie.git
